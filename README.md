@@ -37,7 +37,7 @@ Criar um bot simples pra dá pra jogar sozinho contra o PC.
 Se quiser rodar aí na sua máquina, é só clonar o repositório e dar um python nome_do_arquivo.py.
 
 Se tiver qualquer dica pra me ajudar a melhorar o código, pode mandar que vou adorar trocar uma ideia! 🚀
-
 **Funcionamento de validação, empate e vitória.**
+
 <img width="319" height="196" alt="image" src="https://github.com/user-attachments/assets/f5711724-d51a-4be6-a321-6cf59e1c9390" /> <img width="319" height="196" alt="image" src="https://github.com/user-attachments/assets/8b10c97a-fa34-4a67-8265-aefbed3520a4" />
 
