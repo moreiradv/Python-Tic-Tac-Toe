@@ -19,10 +19,11 @@ Deu velha? Se bater 9 jogadas e ninguém ganhar, ele avisa que empatou e encerra
 Quando você roda o jogo, ele mostra o tabuleiro com coordenadas que vão de 0 a 2:
 
 Plaintext
-     0   1   2
-  0 [ ] [ ] [ ]
-  1 [ ] [ ] [ ]
-  2 [ ] [ ] [ ]
+
+         0   1   2
+      0 [ ] [ ] [ ]
+      1 [ ] [ ] [ ]
+      2 [ ] [ ] [ ]
 Aí é só escolher a linha e a coluna onde você quer jogar. Por exemplo: se quiser colocar no meio certinho, escolhe linha 1 e coluna 1.
 
 🎯 Próximos ajustes (o que quero melhorar)
