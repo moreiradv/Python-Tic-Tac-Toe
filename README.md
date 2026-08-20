@@ -38,5 +38,5 @@ Se quiser rodar aí na sua máquina, é só clonar o repositório e dar um pytho
 
 Se tiver qualquer dica pra me ajudar a melhorar o código, pode mandar que vou adorar trocar uma ideia! 🚀
 
-<img width="338" height="227" alt="image" src="https://github.com/user-attachments/assets/c76d3516-9bff-4fc1-9e8f-dcba484e322e" /> <img width="338" height="227" alt="image" src="https://github.com/user-attachments/assets/8b10c97a-fa34-4a67-8265-aefbed3520a4" />
+<img width="338" height="227" alt="image" src="https://github.com/user-attachments/assets/273d26e8-498b-440d-89d2-da1a2ca9b00b" /> <img width="338" height="227" alt="image" src="https://github.com/user-attachments/assets/8b10c97a-fa34-4a67-8265-aefbed3520a4" />
 
